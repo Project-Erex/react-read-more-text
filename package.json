@@ -1,0 +1,24 @@
+{
+  "name": "@erexstudio/react-read-more-text",
+  "version": "1.0.1",
+  "description": "A versatile React component for seamlessly implementing \"Read More/Show Less\" functionality with customizable styles.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "read-more",
+    "show-less",
+    "button",
+    "react"
+  ],
+  "author": "Erex-Studio",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}
